@@ -8,4 +8,13 @@ This ia a python discord bot which welcome new members joining the discord
 If a user left from your server , the bot will send a departure message
 
 
+This bot is build in replit which offer various tools for making the bot.
+
+Replit --> https://replit.com/
+
+The main disadvantage of using other 
+
   
+I use replit instead of IDE because it offers hiding of privacy content in our code for example (Discord Bot Token)
+
+![image](https://github.com/user-attachments/assets/488c5a62-4052-4f1d-ae86-ac4dddd87b57)
