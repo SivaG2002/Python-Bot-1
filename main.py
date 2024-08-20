@@ -34,7 +34,7 @@ async def on_member_join(member):
             "If you have any questions, feel free to reach out to the moderators. Enjoy your time here!"
         )
         await channel.send(welcome_message,
-                           file=discord.File(r'imges/img.png'))
+                           file=discord.File(r'img.png'))
 
 
 if __name__ == "__main__":
